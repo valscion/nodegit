@@ -33,12 +33,9 @@
   "engines": {
     "node": ">= 0.12"
   },
-  "bundledDependencies": [
-    "node-pre-gyp"
-  ],
   "dependencies": {
     "fs-extra": "~0.26.2",
-    "node-pre-gyp": "~0.6.15",
+    "node-pre-gyp": "~0.6.27",
     "promisify-node": "~0.3.0"
   },
   "devDependencies": {
